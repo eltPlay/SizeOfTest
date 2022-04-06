@@ -1,0 +1,15 @@
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\bin\Debug\net6.0\SizeOfTest.exe
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\bin\Debug\net6.0\SizeOfTest.deps.json
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\bin\Debug\net6.0\SizeOfTest.runtimeconfig.json
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\bin\Debug\net6.0\SizeOfTest.dll
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\bin\Debug\net6.0\SizeOfTest.pdb
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.csproj.AssemblyReference.cache
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.AssemblyInfoInputs.cache
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.AssemblyInfo.cs
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.csproj.CoreCompileInputs.cache
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.dll
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\refint\SizeOfTest.dll
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.pdb
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\SizeOfTest.genruntimeconfig.cache
+F:\RiderProjects\Study\SizeOfTest\SizeOfTest\obj\Debug\net6.0\ref\SizeOfTest.dll
